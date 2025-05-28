@@ -14,7 +14,7 @@
 
 void	ft_error(char *str, char *arg)
 {
-	int	i = -0;
+	int	i = 0;
 
 	while (str[i])
 	{
